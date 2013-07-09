@@ -1,0 +1,12 @@
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Queue.Core.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Queue.Core.pdb
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\dev\Queue.Core\Queue.Core\obj\Debug\Queue.Core.dll
+C:\dev\Queue.Core\Queue.Core\obj\Debug\Queue.Core.pdb
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Sqlite.dll
+C:\dev\Queue.Core\Queue.Core\bin\Debug\Newtonsoft.Json.dll

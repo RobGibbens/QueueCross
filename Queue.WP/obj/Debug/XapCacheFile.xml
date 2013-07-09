@@ -1,0 +1,29 @@
+﻿<xapCache source="C:\dev\Queue.Core\Queue.WP\Bin\Debug\Queue.WP_Debug_AnyCPU.xap" wasSigned="False" wasTritonized="False" certificateThumbprint="" TimeStampUrl="" signKeyFile="" signKeyPassword="" lastWriteTime="7/9/2013 4:30:55 PM">
+  <file source="C:\dev\Queue.Core\Queue.WP\obj\Debug\Queue.WP.dll" archivePath="Queue.WP.dll" lastWriteTime="7/9/2013 4:30:54 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Assets\AlignmentGrid.png" archivePath="Assets\AlignmentGrid.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Assets\Tiles\FlipCycleTileLarge.png" archivePath="Assets\Tiles\FlipCycleTileLarge.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Assets\Tiles\FlipCycleTileSmall.png" archivePath="Assets\Tiles\FlipCycleTileSmall.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Assets\Tiles\IconicTileMediumLarge.png" archivePath="Assets\Tiles\IconicTileMediumLarge.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Assets\Tiles\IconicTileSmall.png" archivePath="Assets\Tiles\IconicTileSmall.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\ToDo-MvvmCross\_ Windows Phone UI.txt" archivePath="ToDo-MvvmCross\_ Windows Phone UI.txt" lastWriteTime="7/9/2013 4:00:29 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Bin\Debug\AppManifest.xaml" archivePath="AppManifest.xaml" lastWriteTime="7/9/2013 4:12:38 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Bin\Debug\Assets\ApplicationIcon.png" archivePath="Assets\ApplicationIcon.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png" archivePath="Assets\Tiles\FlipCycleTileMedium.png" lastWriteTime="7/9/2013 4:00:03 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.9-beta6\lib\sl4-wp71\Cirrious.CrossCore.dll" archivePath="Cirrious.CrossCore.dll" lastWriteTime="7/9/2013 3:50:37 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.9-beta6\lib\sl4-wp71\Cirrious.CrossCore.WindowsPhone.dll" archivePath="Cirrious.CrossCore.WindowsPhone.dll" lastWriteTime="7/9/2013 3:50:37 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.dll" archivePath="Cirrious.MvvmCross.dll" lastWriteTime="7/9/2013 3:50:37 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.CrossCore.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Localization.dll" archivePath="Cirrious.MvvmCross.Localization.dll" lastWriteTime="7/9/2013 3:50:37 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.File.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Plugins.File.dll" archivePath="Cirrious.MvvmCross.Plugins.File.dll" lastWriteTime="7/9/2013 3:51:53 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.File.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Plugins.File.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.Plugins.File.WindowsPhone.dll" lastWriteTime="7/9/2013 3:51:53 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.Json.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Plugins.Json.dll" archivePath="Cirrious.MvvmCross.Plugins.Json.dll" lastWriteTime="7/9/2013 3:51:51 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.Messenger.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Plugins.Messenger.dll" archivePath="Cirrious.MvvmCross.Plugins.Messenger.dll" lastWriteTime="7/9/2013 3:51:56 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.Sqlite.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Plugins.Sqlite.dll" archivePath="Cirrious.MvvmCross.Plugins.Sqlite.dll" lastWriteTime="7/9/2013 3:51:59 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.Sqlite.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.Plugins.Sqlite.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.Plugins.Sqlite.WindowsPhone.dll" lastWriteTime="7/9/2013 3:51:59 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.9-beta6\lib\sl4-wp71\Cirrious.MvvmCross.WindowsPhone.dll" archivePath="Cirrious.MvvmCross.WindowsPhone.dll" lastWriteTime="7/9/2013 3:50:37 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.Sqlite.3.0.9-beta6\lib\sl4-wp71\Community.CsharpSqlite.WP7.dll" archivePath="Community.CsharpSqlite.WP7.dll" lastWriteTime="7/9/2013 3:51:59 PM" />
+  <file source="C:\dev\Queue.Core\packages\MvvmCross.HotTuna.Plugin.Json.3.0.9-beta6\lib\sl4-wp71\Newtonsoft.Json.dll" archivePath="Newtonsoft.Json.dll" lastWriteTime="7/9/2013 3:51:51 PM" />
+  <file source="C:\dev\Queue.Core\Queue.Core\bin\Debug\Queue.Core.dll" archivePath="Queue.Core.dll" lastWriteTime="7/9/2013 4:30:54 PM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.dll" archivePath="System.Windows.Interactivity.dll" lastWriteTime="8/17/2011 1:48:22 AM" />
+  <file source="C:\Program Files (x86)\Microsoft SDKs\Expression\Blend\Windows Phone\v7.1\Libraries\System.Windows.Interactivity.xml" archivePath="System.Windows.Interactivity.xml" lastWriteTime="8/17/2011 1:30:36 AM" />
+  <file source="C:\dev\Queue.Core\Queue.WP\Bin\Debug\Properties\WMAppManifest.xml" archivePath="WMAppManifest.xml" lastWriteTime="7/9/2013 4:12:38 PM" />
+</xapCache>
