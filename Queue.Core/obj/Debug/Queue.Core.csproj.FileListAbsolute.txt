@@ -10,3 +10,15 @@ C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
 C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
 C:\dev\Queue.Core\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Sqlite.dll
 C:\dev\Queue.Core\Queue.Core\bin\Debug\Newtonsoft.Json.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Queue.Core.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Queue.Core.pdb
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.CrossCore.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.MvvmCross.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Messenger.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Cirrious.MvvmCross.Plugins.Sqlite.dll
+C:\dev\QueueCross\Queue.Core\bin\Debug\Newtonsoft.Json.dll
+C:\dev\QueueCross\Queue.Core\obj\Debug\Queue.Core.dll
+C:\dev\QueueCross\Queue.Core\obj\Debug\Queue.Core.pdb

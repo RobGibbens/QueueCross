@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.Core", "Queue.Core\Qu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.WP", "Queue.WP\Queue.WP.csproj", "{1C7682F9-EAD8-43B0-BC66-D4328E703EED}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Queue.Tests", "Queue.Tests\Queue.Tests.csproj", "{9B486B2F-8982-4839-8803-A68A0A2571FC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,14 @@ Global
 		{1C7682F9-EAD8-43B0-BC66-D4328E703EED}.Release|x86.ActiveCfg = Release|x86
 		{1C7682F9-EAD8-43B0-BC66-D4328E703EED}.Release|x86.Build.0 = Release|x86
 		{1C7682F9-EAD8-43B0-BC66-D4328E703EED}.Release|x86.Deploy.0 = Release|x86
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Debug|Any CPU.Build.0 = Debug|x86
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Debug|ARM.ActiveCfg = Debug|Any CPU
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Release|ARM.ActiveCfg = Release|Any CPU
+		{9B486B2F-8982-4839-8803-A68A0A2571FC}.Release|x86.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

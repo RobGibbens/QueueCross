@@ -42,6 +42,12 @@
     <Compile Include="App.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModels\FirstViewModel.cs" />
+    <Compile Include="ViewModels\IMvxQueue.cs" />
+    <Compile Include="ViewModels\IQueuedCommand.cs" />
+    <Compile Include="ViewModels\SaveToRemoteServiceCommand.cs" />
+    <Compile Include="ViewModels\MvxQueue.cs" />
+    <Compile Include="ViewModels\QueueEntity.cs" />
+    <Compile Include="ViewModels\SaveToLocalDatabaseCommand.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="Cirrious.CrossCore">
