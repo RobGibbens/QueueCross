@@ -31,18 +31,12 @@ namespace Queue.Tests
 			{
 				connection.Delete(entity);
 			}
-			//var factory = new Mock<ISQLiteConnectionFactory>();
-			//var connection = new Mock<ISQLiteConnection>();
 
-			//var table = new Mock<ITableQuery<QueueEntity>>();
-			//table.SetupAllProperties();
-			//connection.Setup(x => x.Table<QueueEntity>()).Returns(table.Object);
-			//factory.Setup(x => x.Create(It.IsAny<string>())).Returns(connection.Object);
 			var jsonConverter = new MvxJsonConverter();
 			IMvxQueue queue = new MvxQueue(factory, jsonConverter);
 			var saveToLocalDatabaseCommand = new SaveToLocalDatabaseCommand { Message = "Test" };
 			var saveToRemoteServiceCommand = new FakeCommand();
-			//var saveToRemoteServiceCommand = new SaveToRemoteServiceCommand { InsultToSay = "You suck", TimesToKick = 10, TimesToLaugh = 20 };
+			
 			saveToLocalDatabaseCommand.AddSuccessCommand(saveToRemoteServiceCommand);
 			queue.Push(saveToLocalDatabaseCommand);
 			queue.ProcessQueue();

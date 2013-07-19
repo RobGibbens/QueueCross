@@ -5,6 +5,10 @@ using Cirrious.MvvmCross.Plugins.Sqlite;
 
 namespace Queue.Core.ViewModels
 {
+	using System.IO;
+
+	using Newtonsoft.Json;
+
 	public class MvxQueue : IMvxQueue
 	{
 		private readonly IMvxJsonConverter _jsonConverter;
@@ -31,12 +35,16 @@ namespace Queue.Core.ViewModels
 				if (retrievedEntity != null)
 				{
 					var type = Type.GetType(retrievedEntity.CommandTypeName);
-					var command = _jsonConverter.DeserializeObject(type, retrievedEntity.SerializedObject);
-					var queuedCommand = (command as IQueuedCommand);
-					if (queuedCommand != null)
-					{
-						queuedCommand.Execute();
-					}
+					var serializer = new Newtonsoft.Json.JsonSerializer();
+					TextReader textReader = new StringReader(retrievedEntity.SerializedObject);
+					JsonReader jsonReader = new JsonTextReader(textReader);
+					IQueuedCommand xx = (IQueuedCommand) serializer.Deserialize(jsonReader, type);
+					//var command = _jsonConverter.DeserializeObject(type, retrievedEntity.SerializedObject);
+					//var queuedCommand = (command as IQueuedCommand);
+					//if (queuedCommand != null)
+					//{
+					//	queuedCommand.Execute();
+					//}
 				}
 			}
 		}
