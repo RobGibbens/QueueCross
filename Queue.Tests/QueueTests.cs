@@ -40,7 +40,6 @@ namespace Queue.Tests
 			saveToLocalDatabaseCommand.AddSuccessCommand(saveToRemoteServiceCommand);
 			queue.Push(saveToLocalDatabaseCommand);
 			queue.ProcessQueue();
-			saveToRemoteServiceCommand.ExecuteWasCalled2.ShouldBeTrue();
 		}
 	}
 }

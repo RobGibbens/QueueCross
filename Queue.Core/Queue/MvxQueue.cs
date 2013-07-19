@@ -38,13 +38,8 @@ namespace Queue.Core.ViewModels
 					var serializer = new Newtonsoft.Json.JsonSerializer();
 					TextReader textReader = new StringReader(retrievedEntity.SerializedObject);
 					JsonReader jsonReader = new JsonTextReader(textReader);
-					IQueuedCommand xx = (IQueuedCommand) serializer.Deserialize(jsonReader, type);
-					//var command = _jsonConverter.DeserializeObject(type, retrievedEntity.SerializedObject);
-					//var queuedCommand = (command as IQueuedCommand);
-					//if (queuedCommand != null)
-					//{
-					//	queuedCommand.Execute();
-					//}
+					IQueuedCommand command = (IQueuedCommand)serializer.Deserialize(jsonReader, type);
+					command.Execute();
 				}
 			}
 		}
